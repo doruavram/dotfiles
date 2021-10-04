@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = daaa64@gmail.com
+	name = Doru Avram
